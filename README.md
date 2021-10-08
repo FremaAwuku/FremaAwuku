@@ -6,10 +6,10 @@
 * 💞️ Love all things astrology🔮, food🍣, cats🐈, and fashion🛍...
 
 ### Feel Free to connect! 
-* 📫 Email [frema.awuku@gmail.com](mailto:frema.awuku@gmail.com)...
-* 👤 [Profile](https://www.fremaawuku.com/)...
-* 👥 [LinkedIn](https://www.linkedin.com/in/frema-awuku/)...
-* 👼🏿 [AngelList](https://angel.co/u/frema-awuku)
+* 📫 Email [frema.awuku@gmail.com](mailto:frema.awuku@gmail.com)
+* 👤  [Profile](https://www.fremaawuku.com/)
+* 👥  [LinkedIn](https://www.linkedin.com/in/frema-awuku/)
+* 👼🏿  [AngelList](https://angel.co/u/frema-awuku)
 
 
 <!---
