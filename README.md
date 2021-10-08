@@ -1,9 +1,12 @@
 # 👋 Hi, I’m Fremy!
 
-## 👩🏿‍💻 Software Engineer My skills range in the following 
+## 👩🏿‍💻 Software Engineer
+
+## 👀 Looking to get hired as an developer onto your next creative software endeavour!
+
+### My skills range in the following 
 ![](https://github.com/FremaAwuku/FremaAwuku/blob/main/fremmy_skills.png)
 
-👀 looking to get hired as an developer onto your next creative software endeavour!
 * 🌱 Open to collab with other engineers or anyone who is interested in trying out new things...
 * 💞️ Love all things astrology🔮, food🍣, cats🐈, and fashion🛍...
 
