@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @FremaAwuku
+# 👋 Hi, I’m Fremy!
 
 ## 👩🏿‍💻 Software Engineer proficient in Javascript✏️ and Python🐍
 👀 looking to get hired as an developer onto your next creative software endeavour!
