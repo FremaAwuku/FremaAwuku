@@ -12,7 +12,7 @@
 
 ### Feel Free to connect! 
 * 📫 Email [frema.awuku@gmail.com](mailto:frema.awuku@gmail.com)
-* 👤  [Profile](https://www.fremaawuku.com/)
+<!-- * 👤  [Profile](https://www.fremaawuku.com/) -->
 * 👥  [LinkedIn](https://www.linkedin.com/in/frema-awuku/)
 * 👼🏿  [AngelList](https://angel.co/u/frema-awuku)
 
